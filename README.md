@@ -1,4 +1,11 @@
-# AADHARA, CHITALI
+<p align="center">
+# AADHARA, CHITALI 
+<!-- 
+for some reason, it wont bold when i center it, oops
+-->
+</p>
+
+
 ![red city](https://undermoonlightsite.files.wordpress.com/2017/05/banner_h-img_bannerred.jpg)
 ![red line divider](https://files.catbox.moe/ron2os.png)
 <p align="center"> 
