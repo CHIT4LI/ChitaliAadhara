@@ -1,6 +1,6 @@
 # AADHARA, CHITALI
 ![red city](https://undermoonlightsite.files.wordpress.com/2017/05/banner_h-img_bannerred.jpg)
-![red line divider](https://files.catbox.moe/ron2os.png){1000px:5px}
+![red line divider](https://files.catbox.moe/ron2os.png)
 ##### a demon told from a timeline told from one different to now.
 ##### at lvl **359** 
 ##### they/it
