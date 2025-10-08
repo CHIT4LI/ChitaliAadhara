@@ -4,7 +4,7 @@
 <p align="center"> 
  a demon told from a timeline told from one different to now. 
 <p align="center">
-  at lvl **359** 
+  at lvl 359
 <p align="center">
   they/it
 <p align="center">  
