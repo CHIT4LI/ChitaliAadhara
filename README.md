@@ -18,7 +18,6 @@ for some reason, it wont bold when i center it, oops
 <h5 align="center">  
   en/bd 
 <h5 align=center>
-</h5>
    
   [twitter](https://twitter.com/ChitaliAadhara) • [youtube](https://www.youtube.com/channel/UCr6xkOHII7ETuIgDBLw31AQ) • lore (coming soon!) • [rules](https://rentry.co/ChitaliAadharaRULES) • [e-mail for buisness inquiries](mailto:astralexpress@gmail.com?subject=Inquiry%3A%20%5Bsubject%20here%5D) • [BOOTH](https://chit4li.booth.pm) • [instagram](https://www.instagram.com/chitaliaadhara?igsh=MTllNnh3cWJkcXN0bQ%3D%3D&utm_source=qr) • [discord](https://discord.gg/jhpGKPJ5eM)
 </p>
