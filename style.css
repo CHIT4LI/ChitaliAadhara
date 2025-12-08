@@ -31,10 +31,3 @@ a:active {
 }
 
 
-img[src$="#fit"] {
-    width: 100vw;
-    height: auto;
-    max-width: none;
-    max-height: 100vh;
-    object-fit: contain;
-}
