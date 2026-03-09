@@ -19,5 +19,5 @@ for some reason, it wont bold when i center it, oops
   en/bd 
 <h5 align=center>
    
-  [twitter](https://twitter.com/ChitaliAadhara) • [youtube](https://www.youtube.com/channel/UCr6xkOHII7ETuIgDBLw31AQ) • lore (coming soon!) • [rules](https://rentry.co/ChitaliAadharaRULES) • [e-mail for buisness inquiries](mailto:astralexpress@gmail.com?subject=Inquiry%3A%20%5Bsubject%20here%5D) • [BOOTH](https://chit4li.booth.pm) • [instagram](https://www.instagram.com/chitaliaadhara?igsh=MTllNnh3cWJkcXN0bQ%3D%3D&utm_source=qr) • [discord](https://discord.gg/jhpGKPJ5eM) • [marshmellow](https://marshmallow-qa.com/n5i4npmek082o?t=2aEiJ1&utm_medium=url_text&utm_source=promotion) • [myoshi](myoshi.co/chitaliaadhara)
+  [twitter](https://twitter.com/ChitaliAadhara) • [youtube](https://www.youtube.com/channel/UCr6xkOHII7ETuIgDBLw31AQ) • lore (coming soon!) • [rules](https://rentry.co/ChitaliAadharaRULES) • [e-mail for buisness inquiries](mailto:astralexpress@gmail.com?subject=Inquiry%3A%20%5Bsubject%20here%5D) • [BOOTH](https://chit4li.booth.pm) • [instagram](https://www.instagram.com/chitaliaadhara?igsh=MTllNnh3cWJkcXN0bQ%3D%3D&utm_source=qr) • [discord](https://discord.gg/jhpGKPJ5eM) • [marshmellow](https://marshmallow-qa.com/n5i4npmek082o?t=2aEiJ1&utm_medium=url_text&utm_source=promotion) • [myoshi](https://myoshi.co/chitaliaadhara)
 </p>
